@@ -36,7 +36,6 @@ En este laboratorio aprenderemos a manejar los comandos básicos de GitHub, lo q
           ```
 **Fuente**: [Git Docs - Git Commit](https://git-scm.com/docs/git-commit)
 
-
    Parte II:
     - "¿Qué sucedió cuando el Owner y el Colaborador intentaron editar el archivo `README.md` al mismo tiempo y subir los cambios?"
  
@@ -64,6 +63,7 @@ En este laboratorio aprenderemos a manejar los comandos básicos de GitHub, lo q
 	- **Commits más pequeños pero descriptivos**: En lugar de hacer un commit gigante al final del día, es mejor hacer commits pequeños y frecuentes, esto no solo facilita la revisión del código, sino que también reduce la posibilidad de conflictos grandes y que sean dificiles de solucionar.
 
 **Fuente**: [Git Best Practices](https://www.atlassian.com/git/tutorials/comparing-workflows)  
+
 
 	**2. ¿Qué es y cómo funciona el Pull Request?**  
 	El **Pull Request (PR)** es una dde las herramientas favoritas para los usuarios en GitHub. Básicamente, es una solicitud para que los cambios que hice en mi rama sean revisados e integrados a la rama principal del proyecto (`main` o `master`). Este proceso no solo ayuda a mantener un historial de cambios ordenado, sino que también fomenta la colaboración y el aprendizaje en equipo.  
