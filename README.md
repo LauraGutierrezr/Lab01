@@ -34,9 +34,8 @@ En este laboratorio aprenderemos a manejar los comandos básicos de GitHub, lo q
           git commit -m "Actualizando la información en el README"
 
           ```
+**Fuente**: [Git Docs - Git Commit](https://git-scm.com/docs/git-commit)
 
-**Fuente**
-- [Git Docs - Git Commit](https://git-scm.com/docs/git-commit)
 
    Parte II:
     - "¿Qué sucedió cuando el Owner y el Colaborador intentaron editar el archivo `README.md` al mismo tiempo y subir los cambios?"
@@ -51,8 +50,7 @@ En este laboratorio aprenderemos a manejar los comandos básicos de GitHub, lo q
 	"En la parte de Pull Requests, resolvemos el conflicto con las ramas dentro del Git "
 	```
 
-        Fuente:
-          - [Git Docs - Resolución de Conflictos](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging)
+**Fuente**: [Git Docs - Resolución de Conflictos](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging)
 
    Parte III  
 	**1. ¿Hay una mejor forma de trabajar con Git para no tener conflictos?**  
