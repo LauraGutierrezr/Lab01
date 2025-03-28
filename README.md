@@ -73,3 +73,6 @@ En este laboratorio aprenderemos a manejar los comandos básicos de GitHub, lo q
 
 "❤️😊"
 
+
+<img width="1027" src="https://github.com/user-attachments/assets/a5a9cdda-52f1-4c83-9251-9dbb5c6ba56a" />
+
